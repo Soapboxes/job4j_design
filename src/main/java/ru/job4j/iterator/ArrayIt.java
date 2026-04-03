@@ -19,4 +19,6 @@ public class ArrayIt implements Iterator<Integer> {
     public Integer next() {
         return data[point++];
     }
+
 }
+
