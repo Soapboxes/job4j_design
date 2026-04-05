@@ -113,5 +113,4 @@ class BoxTest {
         assertThat(name).isEqualTo("Unknown object");
         assertThat(box.isExist()).isFalse();
     }
-
 }
